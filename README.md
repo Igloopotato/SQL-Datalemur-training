@@ -1,6 +1,6 @@
 ![og_image](https://github.com/marswanttobeanalyst/SQL-Datalemur-training/assets/141108687/0b320c48-f08c-4e04-9421-0cf4feccbc76)
 # SQL-ML-Datalemur-training
-Tackling SQL, ML and statistics questions provided in the website from easy to hard step by step
+Tackling SQL questions provided in the website from easy to hard step by step
 
 ## Difficulty Level : EASY
 
