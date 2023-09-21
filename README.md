@@ -5,7 +5,7 @@ Tackling SQL, ML and statistics questions provided in the website from easy to h
 
 | NO | QUESTION | SOLUTION |
 |:------:|------------|:---------:|
-| 01 | [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes)) | [Solution]
+| 01 | [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes)) | [Solution](easy-1.sql)
 
 
 #### Difficulty Level : MEDIUM
