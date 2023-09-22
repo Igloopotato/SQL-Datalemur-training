@@ -12,8 +12,8 @@ Tackling SQL questions provided in the website from easy to hard step by step
 | 04 | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution](EASY/Unfinished-Parts.sql)
 | 05 | [Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) | [Solution](EASY/Laptop-vs-Mobile-Viewership.sql)
 | 06 | [Average Post Hiatus (Part 1)](https://datalemur.com/questions/sql-average-post-hiatus-1) | [Solution](EASY/Average-Post-Hiatus-1.sql)
-| 07 | [Teams Power Users](https://datalemur.com/questions/teams-power-users) | [Solution](EASY/App-Click-through-Rate.sql)
-| 08 | [App Click-through Rate](https://datalemur.com/questions/click-through-rate) | [Solution]
+| 07 | [Teams Power Users](https://datalemur.com/questions/teams-power-users) | [Solution]
+| 08 | [App Click-through Rate](https://datalemur.com/questions/click-through-rate) | [Solution](EASY/App-Click-through-Rate.sql)
 | 09 | [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) | [Solution]
 | 10 | [Cities With Completed Trades](https://datalemur.com/questions/completed-trades) | [Solution]
 | 11 | [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution]
