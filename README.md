@@ -11,6 +11,7 @@ Tackling SQL questions provided in the website from easy to hard step by step
 | 03 | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) | [Solution](EASY/Histogram-of-Tweets.sql)
 | 04 | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution](EASY/Unfinished-Parts.sql)
 | 05 | [Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) | [Solution](EASY/Laptop-vs-Mobile-Viewership.sql)
+| 06 | [Average Post Hiatus (Part 1)](https://datalemur.com/questions/sql-average-post-hiatus-1) | [Solution]
 
 
 ## Difficulty Level : MEDIUM
