@@ -16,7 +16,7 @@ Tackling SQL questions provided in the website from easy to hard step by step
 | 08 | [App Click-through Rate](https://datalemur.com/questions/click-through-rate) | [Solution](EASY/App-Click-through-Rate.sql)
 | 09 | [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) | [Solution](EASY/Duplicate-job-listings.sql)
 | 10 | [Cities With Completed Trades](https://datalemur.com/questions/completed-trades) | [Solution](EASY/Cities-With-Completed-Trades.sql)
-| 11 | [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution]
+| 11 | [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution](EASY/Average-Review-Ratings.sql)
 
 
 ## Difficulty Level : MEDIUM
