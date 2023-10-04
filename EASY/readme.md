@@ -25,13 +25,26 @@ Assume you're given two tables containing data about Facebook Pages and their re
 Write a query to return the IDs of the Facebook pages that have zero likes. The output should be sorted in ascending order based on the page IDs.
 
 **pages Example Input:**                          
-
-| page_id | page_name |                        
-|:------:|------------|                         
-|20001|	SQL Solutions|
-|20045|	Brain Exercises|
-|20701|	Tips for Data Analysts|
-
+<div style="display: flex;">
+  <div style="flex: 50%; padding: 10px;">
+  
+  | page_id | page_name           |
+  | ------- | ------------------- |
+  | 20001   | SQL Solutions       |
+  | 20045   | Brain Exercises     |
+  | 20701   | Tips for Data Analysts |
+  
+  </div>
+  <div style="flex: 50%; padding: 10px;">
+  
+  | user_id | page_id | liked_date          |
+  | ------- | ------- | ------------------- |
+  | 111     | 20001   | 04/08/2022 00:00:00 |
+  | 121     | 20045   | 03/12/2022 00:00:00 |
+  | 156     | 20001   | 07/25/2022 00:00:00 |
+  
+  </div>
+</div>
 
 Link to the case study and datasets used:[here](https://datalemur.com/questions/sql-page-with-no-likes)
 
