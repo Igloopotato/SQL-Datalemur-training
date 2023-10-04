@@ -25,5 +25,7 @@ Tackling SQL questions provided in the website from easy to hard step by step
 | 01 | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](MEDIUM/user-third-transaction.sql)
 | 02 | [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps) | [Solution](MEDIUM/Sending-vs-Opening-Snaps.sql)
 | 03 | [Tweets' Rolling Averages ](https://datalemur.com/questions/rolling-average-tweets) | [Solution](MEDIUM/Tweets-Rolling-Averages.sql)
+| 04 | [Highest-Grossing Items ](https://datalemur.com/questions/sql-highest-grossing) | [Solution](MEDIUM/Highest-Grossing-Items.sql)
 
 ## Difficulty Level : HARD
+
