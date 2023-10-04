@@ -6,7 +6,7 @@ This repository contains my answers to a set of easy SQL-related questions in [D
 
 - [Introduction](#introduction)
 - [Questions and Answers](#questions-and-answers)
-  - [Question 1: Page With No Likes](#-1.Page-With-No-Likes)
+  - [Question 1: Page With No Likes](###-1.-Page-With-No-Likes])
   - [Question 2: Another SQL Question](#question-2-another-sql-question)
   - [Question 3: Yet Another Question](#question-3-yet-another-question)
 - [Conclusion](#conclusion)
@@ -18,7 +18,7 @@ In this repository, I have provided answers to a series of easy SQL-related ques
 
 ## Questions And Answers
 
-### 1.[Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes)
+### [1. Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes)
 
 Assume you're given two tables containing data about Facebook Pages and their respective likes (as in "Like a Facebook Page").
 
