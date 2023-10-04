@@ -23,6 +23,6 @@ Tackling SQL questions provided in the website from easy to hard step by step
  NO | QUESTION | SOLUTION |
 |:------:|------------|:---------:|
 | 01 | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](MEDIUM/user-third-transaction.sql)
-| 02 | [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps) | [Solution]
+| 02 | [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps) | [Solution](MEDIUM/Sending-vs-Opening-Snaps.sql)
 
 ## Difficulty Level : HARD
