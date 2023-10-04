@@ -22,6 +22,6 @@ Tackling SQL questions provided in the website from easy to hard step by step
 ## Difficulty Level : MEDIUM
  NO | QUESTION | SOLUTION |
 |:------:|------------|:---------:|
-| 01 | [Page With No Likes](https://datalemur.com/questions/sql-third-transaction) | [Solution](MEDIUM/user-third-transaction.sql)
+| 01 | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](MEDIUM/user-third-transaction.sql)
 
 ## Difficulty Level : HARD
