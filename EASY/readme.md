@@ -18,7 +18,7 @@ In this repository, I have provided answers to a series of easy SQL-related ques
 
 ## Questions And Answers
 
-### 1.Page With No Likes
+### 1.[Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes)
 
 Assume you're given two tables containing data about Facebook Pages and their respective likes (as in "Like a Facebook Page").
 
@@ -38,9 +38,19 @@ Write a query to return the IDs of the Facebook pages that have zero likes. The 
   | 121     | 20045   | 03/12/2022 00:00:00 |
   | 156     | 20001   | 07/25/2022 00:00:00 |
 
+
+ANSWER:
+
+
 ```sql
 SELECT pages.page_id FROM pages 
 LEFT OUTER JOIN page_likes ON page_likes.page_id = pages.page_id
  WHERE Liked_date IS NULL
 ORDER BY pages.page_id;
 ```
+
+| page_id |
+| ------- |
+| 20701   |
+| 32728   |
+
