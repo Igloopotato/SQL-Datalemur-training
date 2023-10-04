@@ -6,7 +6,7 @@ This repository contains my answers to a set of easy SQL-related questions in [D
 
 - [Introduction](#introduction)
 - [Questions and Answers](#questions-and-answers)
-  - [Question 1: Example Question](#question-1-example-question)
+  - [Question 1: Page With No Likes](#-1.Page-With-No-Likes)
   - [Question 2: Another SQL Question](#question-2-another-sql-question)
   - [Question 3: Yet Another Question](#question-3-yet-another-question)
 - [Conclusion](#conclusion)
@@ -26,4 +26,5 @@ Write a query to return the IDs of the Facebook pages that have zero likes. The 
 
 [Link to the case study and datasets used](https://datalemur.com/questions/sql-page-with-no-likes)
 
-(EASY/Page-With-No-Likes.sql)
+Answer:
+https://github.com/marswanttobeanalyst/SQL-Datalemur-training/blob/main/EASY/teams-power-users.sql
