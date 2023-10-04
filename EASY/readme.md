@@ -18,7 +18,7 @@ In this repository, I have provided answers to a series of easy SQL-related ques
 
 ## Questions And Answers
 
-# 1.Page With No Likes
+### 1.Page With No Likes
 
 Assume you're given two tables containing data about Facebook Pages and their respective likes (as in "Like a Facebook Page").
 
