@@ -15,7 +15,7 @@ This repository contains my answers to a set of easy SQL-related questions in [D
   - [Question 7: Teams Power Users](https://github.com/marswanttobeanalyst/SQL-Datalemur-training/tree/main/EASY#7-teams-power-users)
   - [Question 8: App Click-through Rate](https://github.com/marswanttobeanalyst/SQL-Datalemur-training/tree/main/EASY#8-app-click-through-rate)
   - [Question 9: Duplicate Job Listings](https://github.com/marswanttobeanalyst/SQL-Datalemur-training/tree/main/EASY#9-duplicate-job-listings)
-  - [Question 10: Cities With Completed Trades](https://github.com/marswanttobeanalyst/SQL-Datalemur-training/tree/main/EASY#10-cities-with-completed-trades))
+  - [Question 10: Cities With Completed Trades](https://github.com/marswanttobeanalyst/SQL-Datalemur-training/tree/main/EASY#10-cities-with-completed-trades)
   - [Question 11: Average Review Ratings](https://github.com/marswanttobeanalyst/SQL-Datalemur-training/tree/main/EASY#11-average-review-ratings)
 - [Conclusion](#conclusion)
 
