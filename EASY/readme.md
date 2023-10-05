@@ -9,7 +9,7 @@ This repository contains my answers to a set of easy SQL-related questions in [D
   - [Question 1: Page With No Likes](###-1.-Page-With-No-Likes])
   - [Question 2: Another SQL Question](#question-2-another-sql-question)
   - [Question 3: Yet Another Question](#question-3-yet-another-question)
-  - [Question 11: Average Review Ratings](###-11-Average-Review-Ratings])
+  - [Question 11: Average Review Ratings]([###-11-Average-Review-Ratings]](https://github.com/marswanttobeanalyst/SQL-Datalemur-training/tree/main/EASY#11-average-review-ratings))
 - [Conclusion](#conclusion)
 - [License](#license)
 
