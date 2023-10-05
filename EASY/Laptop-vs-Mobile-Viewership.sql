@@ -4,7 +4,7 @@ COUNT(*) FILTER (WHERE device_type IN ('tablet', 'phone')) AS mobile_views
 FROM Viewership;
 
 
-----THIS IS MY PERSONAL METHOD----
+----OTHER METHOD BUT HARDER----
 ALTER TABLE Viewership
 ADD new_device_type TEXT;
 
