@@ -1,6 +1,6 @@
 # DataLemur Analysis
 
-This repository contains my answers to a set of easy SQL-related questions in [DataLemur](https://datalemur.com/), where I have answered various questions using the provided dataset.
+This repository contains my answers to a set of easy SQL-related questions in [DataLemur]([https://datalemur.com/](https://datalemur.com/questions?category=SQL&difficulty=Easy), where I have answered various questions using the provided dataset.
 
 ## Table of Contents
 
