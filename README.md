@@ -30,9 +30,9 @@ You can check the whole walkthrough, notes, steps, key takeaway, keynotes and th
 | 03 | [Tweets' Rolling Averages ](https://datalemur.com/questions/rolling-average-tweets) | [Solution](MEDIUM/Tweets-Rolling-Averages.sql)
 | 04 | [Highest-Grossing Items ](https://datalemur.com/questions/sql-highest-grossing) | [Solution](MEDIUM/Highest-Grossing-Items.sql)
 
-## Difficulty Level : HARD
-
 You can check the whole walkthrough, notes, steps, key takeaway, keynotes and the solution [here](MEDIUM/readme.md)
+
+## Difficulty Level : HARD
 
 
 ## Disclaimer
