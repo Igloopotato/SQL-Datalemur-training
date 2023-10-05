@@ -6,10 +6,10 @@ This repository contains my answers to a set of medium SQL-related questions in 
 
 - [Introduction](#introduction)
 - [Questions and Answers](#questions-and-answers)
-  - [Question 1: User's Third Transaction]
-  - [Question 2: Data Science Skills]
-  - [Question 3: Tweets' Rolling Averages]
-  - [Question 4: Unfinished Parts]
+  - [Question 1: User's Third Transaction](https://github.com/marswanttobeanalyst/SQL-Datalemur-training/tree/main/MEDIUM#1-users-third-transaction)
+  - [Question 2: Data Science Skills](https://github.com/marswanttobeanalyst/SQL-Datalemur-training/tree/main/MEDIUM#2-sending-vs-opening-snaps)
+  - [Question 3: Tweets' Rolling Averages](https://github.com/marswanttobeanalyst/SQL-Datalemur-training/tree/main/MEDIUM#3-tweets-rolling-averages)
+  - [Question 4: Unfinished Parts](https://github.com/marswanttobeanalyst/SQL-Datalemur-training/tree/main/MEDIUM#4-highest-grossing-items)
   - 
 - [Conclusion](#conclusion)
  
