@@ -20,8 +20,6 @@ In this repository, I have provided answers to a series of easy SQL-related ques
 
 ### [1. Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes)
 
-Assume you're given two tables containing data about Facebook Pages and their respective likes (as in "Like a Facebook Page").
-Write a query to return the IDs of the Facebook pages that have zero likes. The output should be sorted in ascending order based on the page IDs.
 
   **pages Example Input:**
 | page_id | page_name           |
@@ -42,6 +40,9 @@ ANSWER:
 
 
 ```sql
+---Assume you're given two tables containing data about Facebook Pages and their respective likes (as in "Like a Facebook Page").
+---Write a query to return the IDs of the Facebook pages that have zero likes. The output should be sorted in ascending order based on the page IDs.
+
 SELECT pages.page_id FROM pages 
 LEFT OUTER JOIN page_likes ON page_likes.page_id = pages.page_id
  WHERE Liked_date IS NULL
