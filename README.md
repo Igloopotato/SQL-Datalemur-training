@@ -18,8 +18,11 @@ Tackling SQL questions provided in the website from easy to hard step by step
 | 10 | [Cities With Completed Trades](https://datalemur.com/questions/completed-trades) | [Solution](EASY/Cities-With-Completed-Trades.sql)
 | 11 | [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution](EASY/Average-Review-Ratings.sql)
 
+You can check the whole walkthrough, notes, steps, key takeaway, keynotes and the solution [here](EASY/readme.md)
+
 
 ## Difficulty Level : MEDIUM
+
  NO | QUESTION | SOLUTION |
 |:------:|------------|:---------:|
 | 01 | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](MEDIUM/user-third-transaction.sql)
@@ -28,4 +31,11 @@ Tackling SQL questions provided in the website from easy to hard step by step
 | 04 | [Highest-Grossing Items ](https://datalemur.com/questions/sql-highest-grossing) | [Solution](MEDIUM/Highest-Grossing-Items.sql)
 
 ## Difficulty Level : HARD
+
+You can check the whole walkthrough, notes, steps, key takeaway, keynotes and the solution [here](MEDIUM/readme.md)
+
+
+## Disclaimer
+
+The content presented herein contains original ideas and creative expressions that are the result of my individual intellectual endeavors. While some elements might draw inspiration from existing works or references, the entirety of this content is crafted as a unique creation. It is important to note that while others are encouraged to engage with and learn from the concepts presented here, direct copying or replication of these ideas without proper attribution and permission is strictly prohibited. I welcome the opportunity for others to draw inspiration and insights from my work, fostering a collaborative environment of learning and growth.
 
