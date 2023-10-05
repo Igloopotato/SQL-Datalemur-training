@@ -6,12 +6,18 @@ This repository contains my answers to a set of easy SQL-related questions in [D
 
 - [Introduction](#introduction)
 - [Questions and Answers](#questions-and-answers)
-  - [Question 1: Page With No Likes](###-1.-Page-With-No-Likes])
-  - [Question 2: Another SQL Question](#question-2-another-sql-question)
-  - [Question 3: Yet Another Question](#question-3-yet-another-question)
+  - [Question 1: Page With No Likes](https://github.com/marswanttobeanalyst/SQL-Datalemur-training/tree/main/EASY#1-page-with-no-likes)
+  - [Question 2: Data Science Skills](https://github.com/marswanttobeanalyst/SQL-Datalemur-training/tree/main/EASY#2-data-science-skills)
+  - [Question 3: Histogram of Tweets](https://github.com/marswanttobeanalyst/SQL-Datalemur-training/tree/main/EASY#3-histogram-of-tweets)
+  - [Question 4: Unfinished Parts](https://github.com/marswanttobeanalyst/SQL-Datalemur-training/tree/main/EASY#4-unfinished-parts)
+  - [Question 5: Laptop vs. Mobile Viewership](https://github.com/marswanttobeanalyst/SQL-Datalemur-training/tree/main/EASY#5-laptop-vs-mobile-viewership)
+  - [Question 6: Average Post Hiatus (Part 1)](https://github.com/marswanttobeanalyst/SQL-Datalemur-training/tree/main/EASY#6-average-post-hiatus-part-1)
+  - [Question 7: Teams Power Users](https://github.com/marswanttobeanalyst/SQL-Datalemur-training/tree/main/EASY#7-teams-power-users)
+  - [Question 8: App Click-through Rate](https://github.com/marswanttobeanalyst/SQL-Datalemur-training/tree/main/EASY#8-app-click-through-rate)
+  - [Question 9: Duplicate Job Listings](https://github.com/marswanttobeanalyst/SQL-Datalemur-training/tree/main/EASY#9-duplicate-job-listings)
+  - [Question 10: Cities With Completed Trades](https://github.com/marswanttobeanalyst/SQL-Datalemur-training/tree/main/EASY#10-cities-with-completed-trades))
   - [Question 11: Average Review Ratings](https://github.com/marswanttobeanalyst/SQL-Datalemur-training/tree/main/EASY#11-average-review-ratings)
 - [Conclusion](#conclusion)
-- [License](#license)
 
 ## Introduction
 
@@ -418,3 +424,5 @@ ORDER BY mth, product_id;
 | 7   | 69852      | 2.50          |
 
 
+## Conclusion
+In conclusion, tackling these easy SQL problems has solidified my understanding of fundamental SQL concepts, honed my problem-solving skills, and boosted my confidence in working with databases. I've learned the importance of efficient data retrieval, adaptability to different SQL dialects, and the value of continuous practice in mastering SQL. These skills are essential for data analysis and management, and I'm well-prepared to tackle more complex SQL challenges in the future.
